@@ -71,6 +71,7 @@
 
 
 ## Github Stats  
+Over the past 7 days
 <!--START_SECTION:wakatime-->
 
 ```txt

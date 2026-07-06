@@ -1,0 +1,24 @@
+name: Waka Readme
+
+on:
+  # Запуск каждый день в полночь
+  schedule:
+    - cron: '0 0 * * *'
+  # Возможность запустить вручную кнопкой в Actions
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime Stats
+    runs-runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: 📋
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: false

@@ -72,6 +72,15 @@
 
 ## Github Stats  
 <!--START_SECTION:wakatime-->
+
+```txt
+Python       58 mins               ███████████████████░░░░░░   76.40 %
+CSS          11 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Markdown     3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+JavaScript   2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+HTML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+```
+
 <!--END_SECTION:wakatime-->
 
 <br/>  

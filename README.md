@@ -83,11 +83,7 @@ HTML         0 secs                ▒░░░░░░░░░░░░░░
 
 <!--END_SECTION:wakatime-->
 
-## 📊 Время в коде (WakaTime)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Blezirka&layout=compact&theme=gotham&langs_count=6" alt="WakaTime Stats" />
-</p>
 <br/>  
 
 

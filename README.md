@@ -71,7 +71,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Blezirka&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 <br/>  
 

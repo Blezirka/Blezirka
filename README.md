@@ -75,11 +75,11 @@ Over the past 7 days
 <!--START_SECTION:wakatime-->
 
 ```txt
-Python       3 hrs 58 mins         ██████████████████████▒░░   89.90 %
-CSS          11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Markdown     5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-YAML         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-JavaScript   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Python       6 hrs 24 mins         ███████████████████████▓░   94.57 %
+Git Config   8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Markdown     5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+YAML         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Text         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:wakatime-->

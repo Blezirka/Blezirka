@@ -75,11 +75,8 @@ Over the past 7 days
 <!--START_SECTION:wakatime-->
 
 ```txt
-Python       5 hrs 59 mins         ████████████████████████▒   97.39 %
-Git Config   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Text         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   3 hrs 33 mins         █████████████████████████   99.94 %
+Text     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:wakatime-->

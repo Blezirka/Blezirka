@@ -75,7 +75,7 @@ Over the past 7 days
 <!--START_SECTION:wakatime-->
 
 ```txt
-Python   0 secs                █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakatime-->

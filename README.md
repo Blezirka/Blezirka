@@ -61,8 +61,8 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Blezirka" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://gitlab.com/blezirka" target="_blank">
+<img src="https://img.shields.io/badge/gitlab-%23E24329.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -73,15 +73,6 @@
 ## Github Stats  
 Over the past 7 days
 <!--START_SECTION:wakatime-->
-
-```txt
-Python       3 hrs 57 mins         ███████████████████████░░   92.13 %
-HTML         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-INI          5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Other        3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Bash         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-```
-
 <!--END_SECTION:wakatime-->
 
 

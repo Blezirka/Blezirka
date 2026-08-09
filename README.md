@@ -73,6 +73,15 @@
 ## Github Stats  
 Over the past 7 days
 <!--START_SECTION:wakatime-->
+
+```txt
+Python       3 hrs 57 mins         ███████████████████████░░   92.13 %
+HTML         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+INI          5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Other        3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Bash         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+```
+
 <!--END_SECTION:wakatime-->
 
 

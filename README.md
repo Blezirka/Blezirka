@@ -75,10 +75,9 @@ Over the past 7 days
 <!--START_SECTION:wakatime-->
 
 ```txt
-Python       1 hr 46 mins          ███████████████████████▒░   93.79 %
-INI          5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Bash         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python            1 hr 22 mins          ████████████████████████░   95.35 %
+Gettext Catalog   3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+HTML              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:wakatime-->

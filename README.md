@@ -75,11 +75,11 @@ Over the past 7 days
 <!--START_SECTION:wakatime-->
 
 ```txt
-Python            3 hrs 21 mins         ███████████████████▒░░░░░   76.87 %
-Gettext Catalog   41 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-Other             10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Bash              5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-INI               1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Python            2 hrs 46 mins         ██████████████████▓░░░░░░   74.30 %
+Gettext Catalog   38 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
+Other             10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Bash              5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+INI               1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:wakatime-->

@@ -75,9 +75,7 @@ Over the past 7 days
 <!--START_SECTION:wakatime-->
 
 ```txt
-Python   28 mins               ████████████████████████░   95.43 %
-INI      1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakatime-->

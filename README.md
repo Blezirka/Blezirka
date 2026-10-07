@@ -75,7 +75,10 @@ Over the past 7 days
 <!--START_SECTION:wakatime-->
 
 ```txt
-No activity tracked
+C++      2 hrs 19 mins         ██████████████████████▓░░   90.03 %
+Python   8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+JSON     4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Text     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:wakatime-->

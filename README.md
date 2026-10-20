@@ -75,9 +75,8 @@ Over the past 7 days
 <!--START_SECTION:wakatime-->
 
 ```txt
-Python   34 mins               ████████████████████░░░░░   80.20 %
-C++      5 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Other    2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+C++     5 mins                █████████████████▓░░░░░░░   71.06 %
+Other   2 mins                ███████▒░░░░░░░░░░░░░░░░░   28.94 %
 ```
 
 <!--END_SECTION:wakatime-->

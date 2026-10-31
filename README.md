@@ -75,11 +75,11 @@ Over the past 7 days
 <!--START_SECTION:wakatime-->
 
 ```txt
-Other        4 hrs 56 mins         ██████████▒░░░░░░░░░░░░░░   40.95 %
-Python       2 hrs 29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.65 %
-JavaScript   1 hr 13 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-Markdown     54 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Bash         42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Other        6 hrs 23 mins         ███████████▒░░░░░░░░░░░░░   45.91 %
+Python       2 hrs 44 mins         █████░░░░░░░░░░░░░░░░░░░░   19.73 %
+JavaScript   1 hr 23 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+Markdown     54 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Bash         42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
 ```
 
 <!--END_SECTION:wakatime-->
